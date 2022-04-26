@@ -1,0 +1,76 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #000;
+}
+.navbar {
+    font-weight: 300;
+}
+.logo {
+    width: 5.375rem;
+    height: 1.563rem;
+}
+
+h3 {
+    margin-top: 2rem;
+    color:#fff;
+    text-align: center;
+}
+
+hr {
+    color: #fff;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.info-text {
+    margin-top: 2rem;
+}
+
+p {
+    color: #fff;
+    font-weight: 300;
+}
+
+h2 {
+    background-color: #0DCAF0;
+    text-align: center;
+    color: #fff;
+}
+.cards-info {
+    padding-left: 3rem;
+}
+
+.card-img-top {
+    width: auto;
+    height: 10rem;
+}
+
+.card-body {
+    background-color: #0DCAF0;
+}
+
+.card-text {
+    font-weight: 300;
+    color: #fff;
+}
+
+.container {
+    font-weight: 300;
+    color: #fff;
+}
+
+.btn {
+    background-color: #0DCAF0;
+}
+
+footer {
+    background-color: #0DCAF0;
+}
+
+h4 {
+    font-weight: 300;
+    color: #fff;
+}
+.f-icon {
+    font-size: medium;
+}
